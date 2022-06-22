@@ -1,2 +1,3 @@
 # xray1.9.0-Preview-Cracked
-xray1.9.0(Preview) cracked
+
+Thank geekjy for letting me stand on the shoulders of giants and complete the cracking of xray1.9.0-Preview.
